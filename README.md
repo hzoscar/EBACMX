@@ -1,2 +1,3 @@
 # EBACMX
-Repositorio para mis tareas de EBAC
+Repositorio para mis tareas de EBAC. 
+La proveniencia de todas las bases de datos utilizadas es kaggle.com
