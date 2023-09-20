@@ -76,7 +76,8 @@ Throughout this course, I had the opportunity to work on three exciting projects
 
 ### Project 1: Exploratory Data Analysis (EDA)
 
-- **Location:** [Part 3 - Data Massaging and Data Visualization](/Part%203%20-%20Data%20Massaging%20and%20Data%20Visualization)
+- **Location:** [Project 1: Exploratory Data Analysis II](./Part%204%20%E2%80%93%20EDA%20Exploratory%20Data%20Analysis/module%2020%20-%20Exploratory%20Data%20Analysis%20II)
+
 - **Description:** In this project, I conducted an exploratory data analysis (EDA) using Jupyter Notebook. The dataset consisted of sales data for video games. I analyzed and visualized the data to uncover insights and trends. The final deliverable included a Google Slides presentation with a maximum of 7 slides. Each slide featured up to 2 graphics, accompanied by concise explanations (3-4 lines). The presentation concluded with key findings and insights.
 
 ### Project 2: Supermarket Sales Analysis
