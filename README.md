@@ -98,7 +98,7 @@ Throughout this course, I had the opportunity to work on three exciting projects
 
 ### Project 3: Cloud Analytics in AWS
 
-- **Location:** [Project 3: Cloud Analytics in AWS](./Part%2013%20-%20Cloud%20Analytics%20in%20AWS)
+- **Location:** [Project 3: Cloud Analytics in AWS](./Part%2013%20-%20%20Cloud%20Analytics%20in%20AWS)   
 
 - **Description:** In the Cloud Analytics project, I set up a simple Data Lake in AWS, utilizing a CSV file stored in an S3 bucket. I performed ETL (Extract, Transform, Load) operations and connected to the data. My analysis included SQL commands for exploratory data analysis and Python scripting. To conclude, I created a dynamic dashboard with storytelling elements using Google Data Studio to communicate the project's insights effectively.
 
