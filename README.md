@@ -21,6 +21,7 @@ This course covers a wide range of data analytics topics, offering in-depth know
 
 ### Data Massaging and Data Visualization
 
+- **Location:** [Section: Data Massaging and Data Visualization](./Part%203%20-%20Data%20massaging%20and%20data%20visualization)
 - Explore data massaging techniques and data visualization using tools such as Pandas.
 - Generate correlation matrices and statistical plots to gain insights from data.
 
@@ -82,12 +83,14 @@ Throughout this course, I had the opportunity to work on three exciting projects
 
 ### Project 2: Supermarket Sales Analysis
 
-- **Location:** [Part 10 - Non-Relational Databases and Project Part 2](/Part%2010%20-%20Non-Relational%20Databases%20and%20Project%20Part%202)
+- **Location:** [Project 2: Exploratory Data Analysis with SQL](./Part%2010%20-%20Non-relational%20databases%20and%20project%20part%202/module%2040%20-%20Exploratory%20data%20analysis%20with%20SQL)
+
 - **Description:** In this project, I delved into supermarket sales data using DBeaver. The dataset contained sales information for a supermarket. I performed data analysis to extract valuable insights. As part of the project, I created a presentation comprising up to 6 slides in Google Slides. The presentation highlighted and explained the analyses conducted.
 
 ### Project 3: Cloud Analytics in AWS
 
-- **Location:** [Part 13 - Cloud Analytics in AWS](/Part%2013%20-%20Cloud%20Analytics%20in%20AWS)
+- **Location:** [Project 3: Cloud Analytics in AWS](./Part%2013%20-%20Cloud%20Analytics%20in%20AWS)
+
 - **Description:** In the Cloud Analytics project, I set up a simple Data Lake in AWS, utilizing a CSV file stored in an S3 bucket. I performed ETL (Extract, Transform, Load) operations and connected to the data. My analysis included SQL commands for exploratory data analysis and Python scripting. To conclude, I created a dynamic dashboard with storytelling elements using Google Data Studio to communicate the project's insights effectively.
 
 These projects allowed me to apply the skills and knowledge gained throughout the course, providing practical experience in data analysis and visualization.
