@@ -27,46 +27,55 @@ This course covers a wide range of data analytics topics, offering in-depth know
 
 ### Exploratory Data Analysis (EDA)
 
+- **Location:** [Section: EDA Exploratory Data Analysis](./Part%204%20–%20EDA%20Exploratory%20Data%20Analysis)
 - Perform Exploratory Data Analysis on real-world datasets.
 - Analyze problems and explore data using EDA techniques.
 
 ### Numpy and Monte Carlo Simulation
 
+- **Location:** [Section: Numpy and Monte Carlo Simulation](./Part%206%20-%20Numpy%20and%20Monte%20Carlo%20simulation)
 - Learn the fundamentals of Numpy and statistical functions.
 - Develop Monte Carlo simulations and connect them to business problems.
 
 ### Machine Learning
 
+- **Location:** [Section: Machine Learning](./Part%207%20-%20Machine%20Learning)
 - Gain insights into Machine Learning concepts, including data modeling and imputation.
 - Understand the basics of regression, classification, and clustering.
 
 ### Time Series
 
+- **Location:** [Section: Time Series](./Part%208%20-%20Time%20series)
 - Explore time series concepts such as trend, cycle, and seasonality.
 - Predict and visualize time series data.
 
 ### SQL
 
+- **Location:** [Section: SQL](./Part%209%20-%20SQL)
 - Dive into SQL, the database language, to explore and manipulate data.
 - Learn about relational database concepts and design.
 
 ### Non-Relational Databases and Project Part 2
 
+- **Location:**[Section: Non-relational Databases and Project Part 2](./Part%2010%20-%20Non-relational%20databases%20and%20project%20part%202)
 - Master non-relational databases using DynamoDB.
 - Apply SQL skills to data analysis.
 
 ### Data Visualization with Google Data Studio
 
+- **Location:** [Section: Data Visualization with Google Data Studio](./Part%2011%20-%20Data%20visualization%20by%20using%20Google%20Data%20Studio)
 - Create practical and visually appealing data dashboards using Google Data Studio.
 - Enhance storytelling through advanced data visualization techniques.
 
 ### Cloud Computing and Big Data with Spark and Pyarrow
 
+- **Location:** [Section: Cloud Computing and Big Data with Spark and PyArrow](./Part%2012%20-%20Cloud%20Computing%20and%20Big%20Data%20by%20using%20spark%20and%20pyarrow)
 - Understand the essentials of Cloud Computing and Big Data.
 - Use Spark and PyArrow for handling large volumes of data.
 
 ### Cloud Analytics in AWS
 
+- **Location:** [Section: Cloud Analytics in AWS](./Part%2013%20-%20Cloud%20Analytics%20in%20AWS)
 - Learn about the architecture and data lake creation.
 - Perform EDA using Python and SQL in AWS.
 - Present your findings and insights.
