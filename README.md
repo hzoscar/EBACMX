@@ -108,10 +108,13 @@ These projects allowed me to apply the skills and knowledge gained throughout th
 
 You can explore each module's content by navigating to the respective folders within this repository. Whether you're looking for exercises, projects, or reference materials, you'll find it here.
 
+## Contributing
+
+If you find errors, have suggestions, or want to contribute improvements to any part of this repository, please feel free to open issues or submit pull requests.
+
 ## Getting Started
 
 If you're new to this repository, consider starting with the module that aligns with your interests or knowledge gaps. Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/hzoscar/EBACMX-Data-Analytics-Course.git
-
