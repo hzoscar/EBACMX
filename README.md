@@ -1,6 +1,6 @@
 # Data Analytics Course Repository
 
-Welcome to my Data Analytics Course Repository! This repository contains a wealth of resources, exercises, and projects from a comprehensive data analytics course. Whether you're a student, data enthusiast, or a professional seeking to enhance your skills, you'll find valuable content organized by course modules.
+Welcome to my Data Analytics Course Repository! This repository contains a wealth of resources, exercises, and projects from a comprehensive data analytics course. 
 
 ## Table of Contents
 
@@ -19,9 +19,7 @@ Welcome to my Data Analytics Course Repository! This repository contains a wealt
   - [Project 1: Exploratory Data Analysis (EDA)](#project-1-exploratory-data-analysis-eda)
   - [Project 2: Supermarket Sales Analysis](#project-2-supermarket-sales-analysis)
   - [Project 3: Cloud Analytics in AWS](#project-3-cloud-analytics-in-aws)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [Getting Started](#getting-started)
 
 
 ## Course Overview
@@ -115,17 +113,6 @@ Throughout this course, I had the opportunity to work on three exciting projects
 
 These projects allowed me to apply the skills and knowledge gained throughout the course, providing practical experience in data analysis and visualization. Furthermore, in this section, **I would like to highlight the activities of the modules about ML with a strong focus on ensuring data quality and readiness for analysis and building machine learning models through  data cleaning and preparation**.
 
-## Usage
-
-You can explore each module's content by navigating to the respective folders within this repository. Whether you're looking for exercises, projects, or reference materials, you'll find it here.
-
 ## Contributing
 
 If you find errors, have suggestions, or want to contribute improvements to any part of this repository, please feel free to open issues or submit pull requests.
-
-## Getting Started
-
-If you're new to this repository, consider starting with the module that aligns with your interests or knowledge gaps. Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/hzoscar/EBACMX-Data-Analytics-Course.git
