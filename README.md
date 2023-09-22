@@ -4,16 +4,25 @@ Welcome to my Data Analytics Course Repository! This repository contains a wealt
 
 ## Table of Contents
 
-1. [Data Massaging and Data Visualization](#data-massaging-and-data-visualization)
-2. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-3. [Numpy and Monte Carlo Simulation](#numpy-and-monte-carlo-simulation)
-4. [Machine Learning](#machine-learning)
-5. [Time Series](#time-series)
-6. [SQL](#sql)
-7. [Non-Relational Databases and Project Part 2](#non-relational-databases-and-project-part-2)
-8. [Data Visualization with Google Data Studio](#data-visualization-with-google-data-studio)
-9. [Cloud Computing and Big Data with Spark and Pyarrow](#cloud-computing-and-big-data-with-spark-and-pyarrow)
-10. [Cloud Analytics in AWS](#cloud-analytics-in-aws)
+- [Course Overview](#course-overview)
+  - [Data Massaging and Data Visualization](#data-massaging-and-data-visualization)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Numpy and Monte Carlo Simulation](#numpy-and-monte-carlo-simulation)
+  - [Machine Learning](#machine-learning)
+  - [Time Series](#time-series)
+  - [SQL](#sql)
+  - [Non-Relational Databases and Project Part 2](#non-relational-databases-and-project-part-2)
+  - [Data Visualization with Google Data Studio](#data-visualization-with-google-data-studio)
+  - [Cloud Computing and Big Data with Spark and Pyarrow](#cloud-computing-and-big-data-with-spark-and-pyarrow)
+  - [Cloud Analytics in AWS](#cloud-analytics-in-aws)
+- [Course Projects](#course-projects)
+  - [Project 1: Exploratory Data Analysis (EDA)](#project-1-exploratory-data-analysis-eda)
+  - [Project 2: Supermarket Sales Analysis](#project-2-supermarket-sales-analysis)
+  - [Project 3: Cloud Analytics in AWS](#project-3-cloud-analytics-in-aws)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Getting Started](#getting-started)
+
 
 ## Course Overview
 
@@ -40,6 +49,8 @@ This course covers a wide range of data analytics topics, offering in-depth know
 ### Machine Learning
 
 - **Location:** [Section: Machine Learning](./Part%207%20-%20Machine%20Learning)
+- Explore the fundamental concepts of modeling data.
+- data cleaning and preparation, with a strong focus on ensuring data quality and readiness for analysis
 - Gain insights into Machine Learning concepts, including data modeling and imputation.
 - Understand the basics of regression, classification, and clustering.
 
@@ -102,7 +113,7 @@ Throughout this course, I had the opportunity to work on three exciting projects
 
 - **Description:** In the Cloud Analytics project, I set up a simple Data Lake in AWS, utilizing a CSV file stored in an S3 bucket. I performed ETL (Extract, Transform, Load) operations and connected to the data. My analysis included SQL commands for exploratory data analysis and Python scripting. To conclude, I created a dynamic dashboard with storytelling elements using Google Data Studio to communicate the project's insights effectively.
 
-These projects allowed me to apply the skills and knowledge gained throughout the course, providing practical experience in data analysis and visualization.
+These projects allowed me to apply the skills and knowledge gained throughout the course, providing practical experience in data analysis and visualization. Furthermore, in this section, **I would like to highlight the activities of the modules about ML with a strong focus on ensuring data quality and readiness for analysis and building machine learning models through  data cleaning and preparation**.
 
 ## Usage
 
